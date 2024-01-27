@@ -1,7 +1,7 @@
 <h1>Projeto Site Mario Bros</h1>
 <br>
 <br>
-<h2>Esse foi um projeto do Curso de Front-End que desenvolvi <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
+<h2>Esse foi um projeto do Curso de Front-End que desenvolvi por: <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
 
 <h2>Tecnologias que usei</h2>
 <br>
